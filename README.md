@@ -35,18 +35,19 @@ JDK版本：1.8
 
 Node版本：14
 #### 四、运行截图（点图片可放大）
-![1701438381557](https://github.com/666bears/petmall/assets/143094776/4445c9db-12cf-4af0-993b-b036a956674c)
-
-
-![Snipaste_2023-12-01_21-49-42](https://github.com/666bears/petmall/assets/143094776/03e9c64a-da8f-42d7-90b0-ba6a08bfd328)
-![Snipaste_2023-12-01_21-50-10](https://github.com/666bears/petmall/assets/143094776/35bab5df-19f5-4985-a60e-75be29abf849)
-
-![Snipaste_2023-12-01_21-51-49](https://github.com/666bears/petmall/assets/143094776/95ae5f1a-1c29-4e87-9bea-5528ae0ec9b0)
-![Snipaste_2023-12-01_21-52-19](https://github.com/666bears/petmall/assets/143094776/e33a44f5-5cff-4de8-95cb-85663f366f5f)
-![Snipaste_2023-12-01_21-52-31](https://github.com/666bears/petmall/assets/143094776/7d632640-1444-4879-869a-1fbdaff60ba8)
-
-![Snipaste_2023-12-01_21-52-52](https://github.com/666bears/petmall/assets/143094776/770cf433-ac73-4c53-8995-371d7515c70f)
-![Snipaste_2023-12-01_21-53-13](https://github.com/666bears/petmall/assets/143094776/91a9f4bb-1309-4851-91ac-1381b8b374f1)
+![1701671254369](https://github.com/666bears/petmall/assets/143094776/729b506b-f3f2-44ff-a643-3c0a3266c7b4)
+![1701438381557](https://github.com/666bears/petmall/assets/143094776/150d0b0c-7c5b-4f1d-a8fd-d0cb4dc751af)
+![1701438433008](https://github.com/666bears/petmall/assets/143094776/937cb214-08dc-47db-be78-edeff305a57a)
+![Snipaste_2023-12-01_21-49-42](https://github.com/666bears/petmall/assets/143094776/3c22f226-f7e1-4f8f-be03-e37ef4f34206)
+![Snipaste_2023-12-01_21-50-10](https://github.com/666bears/petmall/assets/143094776/1f605b79-8005-423c-aadd-f782348fb392)
+![Snipaste_2023-12-01_21-50-10](https://github.com/666bears/petmall/assets/143094776/cf0ad392-ed4d-40d7-8bd7-fb1bdb3f827a)
+![Snipaste_2023-12-01_21-51-14](https://github.com/666bears/petmall/assets/143094776/0eff8607-aaa2-4439-903f-375ef79c44ce)
+![Snipaste_2023-12-01_21-51-49](https://github.com/666bears/petmall/assets/143094776/c0c9bc76-c962-497f-bbd6-a9ab7b5c3471)
+![Snipaste_2023-12-01_21-52-19](https://github.com/666bears/petmall/assets/143094776/1f43f8fc-2680-416e-84e2-df99c2d04b99)
+![Snipaste_2023-12-01_21-52-31](https://github.com/666bears/petmall/assets/143094776/258bba82-9a79-4c66-8091-9a5cf850a853)
+![Snipaste_2023-12-01_21-52-52](https://github.com/666bears/petmall/assets/143094776/ffadfd3f-f707-4d1a-9c84-a41f461b7888)
+![Snipaste_2023-12-01_21-53-13](https://github.com/666bears/petmall/assets/143094776/d98609a2-8df7-44ef-bc2c-21e4575b80e6)
+![Snipaste_2023-12-01_21-52-52](https://github.com/666bears/petmall/assets/143094776/f034b2ed-9869-417d-9bc2-3f48c5d73810)
 
 #### 五、安装教程
 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
